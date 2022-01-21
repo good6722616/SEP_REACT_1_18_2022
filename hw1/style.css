@@ -1,0 +1,28 @@
+#mainContainer {
+    margin: auto;
+    width: 50%;
+}
+
+#headerTite {
+    text-align: center;
+}
+.btn-custom{
+    width: 48%;
+    margin: auto;
+}
+h2{
+    font-weight:350;
+}
+span{
+    font-weight: 500;
+    background-color: #0d6efd;
+    border-radius: 5px;
+    padding: 2px 5px;
+    color: white;
+}
+p{
+    font-size: normal;
+}
+a{
+    text-decoration: none;
+}
